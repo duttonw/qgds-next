@@ -1,6 +1,8 @@
+node/
 node_modules/
 .migrate/helpers/
 .migrate/src/
 .migrate/styles/
 .migrate/components/
 storybook-static/
+dist/

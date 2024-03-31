@@ -25,6 +25,10 @@ Follow these steps to integrate the [X] into your project using npm:
 
 4. **Import Styles and JavaScript:** Learn how to import the design system's styles and JavaScript into your project's build by referring to the relevant sections below.
 
+## CiCd GitHub Actions 
+
+Please see readme in [.github/workflows](.github/workflows/README.md) folder
+
 ## Working notes
 ### Background:
 The intention of the repository is to offer a method to migrate 1 or more components (as per a feature request) to a completely new repository, and change the format of the output.
@@ -33,3 +37,4 @@ The intention of the repository is to offer a method to migrate 1 or more compon
 - ```npm run move-component``` provides a CLI menu to move a component to ./src/components/*/ at root (future web components) as per peer review process/feature prioritisation
 - ```./src ``` now contains the newly selected components, these are viewable in Storybook. The format/design/QA can be performed against Storybook.
 - ```./migrate``` folder will be deleted at the end of the project (temporary files for Storybook migration/compiling components)
+

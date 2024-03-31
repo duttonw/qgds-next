@@ -1,3 +1,4 @@
+node/
 node_modules/
 .migrate/helpers/
 .migrate/src/
@@ -5,4 +6,5 @@ node_modules/
 .migrate/components/
 .migrate/utilities/.figma.js
 storybook-static/
+dist/
 src/assets/img/

@@ -41,7 +41,7 @@
     "react-dom": "^18.2.0",
     "sass": "^1.70.0",
     "sass-loader": "^14.1.0",
-    "storybook": "^7.6.16",
+    "storybook": "^7.6.21",
     "style-loader": "^3.3.4",
     "webpack-cli": "^5.1.4"
   }
